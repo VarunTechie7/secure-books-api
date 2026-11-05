@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\23it039\\SecureBooksApi\\SecureBooksApi.csproj": {}
+    "D:\\c#\\SecureBooksApi\\SecureBooksApi\\SecureBooksApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\23it039\\SecureBooksApi\\SecureBooksApi.csproj": {
+    "D:\\c#\\SecureBooksApi\\SecureBooksApi\\SecureBooksApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\23it039\\SecureBooksApi\\SecureBooksApi.csproj",
+        "projectUniqueName": "D:\\c#\\SecureBooksApi\\SecureBooksApi\\SecureBooksApi.csproj",
         "projectName": "SecureBooksApi",
-        "projectPath": "C:\\Users\\23it039\\SecureBooksApi\\SecureBooksApi.csproj",
-        "packagesPath": "C:\\Users\\23it039\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\23it039\\SecureBooksApi\\obj\\",
+        "projectPath": "D:\\c#\\SecureBooksApi\\SecureBooksApi\\SecureBooksApi.csproj",
+        "packagesPath": "C:\\Users\\msdva\\.nuget\\packages\\",
+        "outputPath": "D:\\c#\\SecureBooksApi\\SecureBooksApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\23it039\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\msdva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
