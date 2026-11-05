@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZLqmgCrZng=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\23it039\\SecureBooksApi\\SecureBooksApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\23it039\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\23it039\\.nuget\\packages\\microsoft.data.sqlite\\10.0.14\\microsoft.data.sqlite.10.0.14.nupkg.sha512",
+    "C:\\Users\\23it039\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.14\\microsoft.data.sqlite.core.10.0.14.nupkg.sha512",
+    "C:\\Users\\23it039\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512",
+    "C:\\Users\\23it039\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.13\\sqlitepclraw.bundle_e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\23it039\\.nuget\\packages\\sqlitepclraw.core\\2.1.13\\sqlitepclraw.core.2.1.13.nupkg.sha512",
+    "C:\\Users\\23it039\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.13\\sqlitepclraw.lib.e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\23it039\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.13\\sqlitepclraw.provider.e_sqlite3.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
